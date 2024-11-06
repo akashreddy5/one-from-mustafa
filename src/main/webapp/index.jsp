@@ -12,6 +12,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">This is updated by ab_solution tech</h1>
 	<h1 style="color: violet; font-size: 20px;" align="center">This is updated by using nexus</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">thanks for the script</h1>
+	<h1 style="color: blue; font-size: 40px;" align="center">thanks for the script</h1>
 	
 	
 	
